@@ -1,0 +1,19 @@
+# Best-effort dependency inventory, not a tested lockfile.
+pandas
+numpy
+scikit-learn
+xgboost
+matplotlib
+seaborn
+networkx
+wikipedia
+beautifulsoup4
+selenium
+webdriver-manager
+deep-translator
+pysentimiento
+bertopic
+umap-learn
+hdbscan
+python-bidi
+arabic-reshaper
